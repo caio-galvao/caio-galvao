@@ -7,7 +7,7 @@ I'm **Caio Galvão**, a **Computer Science** student at Federal University of Ca
 
 ## How to reach me :mailbox:
 
-I would love to talk with you, I'm always looking to help or collaborate on projects :handshake:.
+I would like to talk with you, I'm always looking to help or collaborate on projects :handshake:.
 
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=whit)](mailto:caio.galvao@ccc.ufcg.edu.br)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/caio-ribeiro-galvão-bb7a1452)
