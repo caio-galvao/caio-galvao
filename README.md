@@ -2,12 +2,13 @@
 
 I'm **Caio Galvão**, a **Computer Science** student at Federal University of Campina Grande (**UFCG**), Brazil.
 
-- 👀 I’m interested in software engineering, data science and artificial intelligence.
-- 🌱 I’m currently learning data structures and algorithms.
+- :eyes: I’m interested in software engineering, data science and artificial intelligence.
+- :computer: I have experience with *Python* and *Java*.
+- :pencil: I’m currently learning *Markdown* and *Figma*.
 
 ## How to reach me :mailbox:
 
-I would like to talk with you, I'm always looking to help or collaborate on projects :handshake:.
+Let's talk, I'm always looking to help or collaborate on projects :handshake:.
 
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=whit)](mailto:caio.galvao@ccc.ufcg.edu.br)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/caio-ribeiro-galvão-bb7a1452)
