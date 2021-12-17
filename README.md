@@ -4,7 +4,6 @@ I'm **Caio Galvão**, a **Computer Science** student at Federal University of Ca
 
 - :eyes: I’m interested in software engineering, data science and artificial intelligence.
 - :computer: I have experience with *Python* and *Java*.
-- :pencil: I’m currently learning *Markdown* and *Figma*.
 
 ## How to reach me :mailbox:
 
